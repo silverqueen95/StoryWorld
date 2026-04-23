@@ -1,0 +1,126 @@
+  body {background-image: url("Downloads/Fantasymap.jpg"); color: black; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif}
+       .main-nav {
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size:small;
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: lightblue;
+        border-color: black;
+       } 
+       .main-nav li {float: left;}
+        .main-nav li a {
+          display: block;
+          color: black;
+          text-align: center;
+          padding: 10px 12px;
+          text-decoration: none;
+          margin: auto;
+        }
+        .dropbtn {
+           background-color: #04AA6D;
+          color: white;
+          padding: 16px;
+          font-size: 16px;
+          border: none;
+                  }
+        .dropdown {
+          position: relative;
+          display: inline-block;
+                  }
+       .dropdown-content {
+          display: none;
+          position: absolute;
+          background-color: #f1f1f1;
+          min-width: 160px;
+          box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+          z-index: 1;}
+        .dropdown-content a {
+          color: black;
+          padding: 12px 16px;
+          text-decoration: none;
+          display: block;}
+        .dropdown-content a:hover {background-color: #ddd;}
+        .dropdown:hover .dropdown-content {display: block;}
+        h1 { color: black; text-align: center;}
+        h2 {color: black; text-align: center;}
+        h3 {color: black; text-align: center;}
+        h4 {color: black; text-align: center;}
+        .box1 {
+            width: 600px;
+            height: 75px;
+            background-color: lightblue;
+            border: 2px solid black;
+            padding: 10px;
+            margin: 10px;
+            position: relative;
+            justify-content: center;
+            margin: auto;}
+        .box2 {
+           width: 400px;
+            height: 50px;
+            background-color: lightblue;
+            border: 2px solid black;
+            padding: 10px;
+            margin: 10px;
+            position: relative;
+            justify-content: center;
+            margin: auto;}
+        .box3 {
+           width: 400px;
+            height: 75px;
+            background-color: lightblue;
+            border: 2px solid black;
+            padding: 10px;
+            margin: 10px;
+            position: relative;
+            justify-content: center;
+            margin: auto;}
+        .box4 {
+          width: 600px;
+          height: 100px;
+          background-color: lightblue;
+          border: 2px solid black;
+          padding: 10px;
+          margin: 10px;
+          position: relative;
+          justify-content: center;
+          margin: auto;}
+        .box5 { width: 600px;
+          height: 200px;
+          background-color: lightblue;
+          border: 2px solid black;
+          padding: 10px;
+          margin: 10px;
+          position: relative;
+          justify-content: center;
+          margin: auto;}
+          .box6 { width: 600px;
+          height: 250px;
+          background-color: lightblue;
+          border: 2px solid black;
+          padding: 10px;
+          margin: 10px;
+          position: relative;
+          justify-content: center;
+          margin: auto;}
+        .box7 { width: 600px;
+          height: 150px;
+          background-color: lightblue;
+          border: 2px solid black;
+          padding: 10px;
+          margin: 10px;
+          position: relative;
+          justify-content: center;
+          margin: auto;}
+        form {width: 200px;
+           background-color: lightblue;
+          border: 2px solid black;
+          padding: 20px;
+          border-radius: 8px;
+          margin: auto;}
+
+        
+            
+           
